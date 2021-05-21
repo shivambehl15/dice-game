@@ -52,8 +52,20 @@ a{
     font-size: 6rem;
   }
 
-  img{
-    width: 60%;
+}
+
+@media(max-width: 850px){
+
+  h1{
+    font-size: 4rem;
+  }
+
+  p{
+    font-size: 1.5rem;
+  }
+
+  .dice{
+    width: 30%;
   }
 
 }
